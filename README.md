@@ -24,8 +24,9 @@ Passionné par le développement web, je consacre mon temps à apprendre comment
 ### 🤝 On reste en contact ?
 * 💼 **LinkedIn** : https://www.linkedin.com/in/alexis-facon-a21a13326/
 * 📧 **Email** : alexis.facon18@gmail.com
+* 💻 **Portfolio** : https://fox-programs.github.io/Kitsu-Portfolio/
 
 ---
 
 ### 📊 Mes Statistiques GitHub
-![Stats de mon GitHub](https://github-readme-stats.vercel.app/api?username=Fox-programs&show_icons=true&theme=vue-conf&locale=fr)
+![Stats de Fox-Programs](https://github-readme-stats.vercel.app/api?username=Fox-Programs&show_icons=true&theme=radical&locale=fr)
