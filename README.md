@@ -1,16 +1,31 @@
-## Hi there 👋
+# 🚀 Bonjour, moi c'est Alexis, mais tu peux m'appeler Kitsu !
 
-<!--
-**Fox-Programs/Fox-programs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Étudiant en B2 Informatique | Aspirant Développeur Full Stack
 
-Here are some ideas to get you started:
+Passionné par le développement web, je consacre mon temps à apprendre comment bâtir des applications performantes et élégantes. Mon objectif est de maîtriser l'ensemble de la chaîne de production, du design de l'interface jusqu'à la gestion des bases de données.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Mes Compétences Techniques
+
+* **Frontend** : React, TypeScript, Tailwind CSS, HTML5/CSS3
+* **Backend** : Node.js, Express, PostgreSQL
+* **Outils** : Git & GitHub, Docker, VS Code
+
+---
+
+### 🔭 Sur quoi je travaille en ce moment ?
+* **Projets Tech** : Je perfectionne mon usage de **TypeScript** pour rendre mes applications plus robustes.
+* **Apprentissage** : Je creuse les concepts de sécurité API et l'optimisation des performances.
+* **Objectif** : Trouver une alternance stimulante pour mettre mes compétences à profit.
+
+---
+
+### 🤝 On reste en contact ?
+* 💼 **LinkedIn** : https://www.linkedin.com/in/alexis-facon-a21a13326/
+* 📧 **Email** : alexis.facon18@gmail.com
+
+---
+
+### 📊 Mes Statistiques GitHub
+![Stats de mon GitHub](https://github-readme-stats.vercel.app/api?username=Fox-programs&show_icons=true&theme=vue-conf&locale=fr)
