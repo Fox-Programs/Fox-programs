@@ -28,5 +28,9 @@ Passionné par le développement web, je consacre mon temps à apprendre comment
 
 ---
 
+
 ### 📊 Mes Statistiques GitHub
-![Stats de Fox-Programs](https://github-readme-stats.vercel.app/api?username=Fox-Programs&show_icons=true&theme=radical&locale=fr)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fox-Programs&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Fox-Programs&theme=radical)
