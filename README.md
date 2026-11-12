@@ -1,6 +1,6 @@
 # 🚀 Bonjour, moi c'est Alexis, mais tu peux m'appeler Kitsu !
 
-### 🎓 Étudiant en B2 Informatique | Aspirant Développeur Full Stack
+### 🎓 Étudiant en B3 Informatique | Aspirant Développeur Full Stack
 
 Passionné par le développement web, je consacre mon temps à apprendre comment bâtir des applications performantes et élégantes. Mon objectif est de maîtriser l'ensemble de la chaîne de production, du design de l'interface jusqu'à la gestion des bases de données.
 
